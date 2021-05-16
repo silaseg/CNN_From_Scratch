@@ -1,1 +1,4 @@
 
+test\dog.txt
+test\elephant.txt
+test\car.txt
