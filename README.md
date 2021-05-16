@@ -6,7 +6,7 @@ Weights obtained based on Keras VGG16 model pretrained on ImageNet from official
 Clone or download this repository: 
 
 ```bash
-https://github.com/rayenelayaida/Convolutional_Neural_Network_From_Scratch
+https://github.com/silaseg/CNN_From_Scratch/
 ```
 
 ## Excute the following command on the command prompt
